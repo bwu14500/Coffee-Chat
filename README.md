@@ -1,6 +1,7 @@
-# Networking-dating-app
+# Coffee Chat (A Networking app)
 
-Coffee Chat
+Coffee Chat:
+
 Providing a more genuine way to network and form relationships.
 
 Devpost link:
